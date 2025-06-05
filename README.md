@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@koushik-vardhan-B**
-- 👀 I’m a Data Science and AI enthusiast with a passion for leveraging machine learning to solve complex problems.
-- 🌱 I’m currently exploring advanced techniques in data preprocessing, model optimization, and deployment.
-- 💞️ I’m looking to collaborate on projects that involve predictive modeling, data analysis, and innovative solutions.
+- 👀 I’m a Passionate NLP and AI enthusiast with a passion for leveraging Automation Intelegence and Agentic AI exploration
+- 🌱 I’m currently exploring Automation Inteligence. 
+- 💞️ I’m looking to collaborate on projects that involve Aratificial Inteligence and Automation works.
 - 📫 You can reach me via direct message on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/koushik-vardhan-b/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy hiking and exploring new places in my free time.
