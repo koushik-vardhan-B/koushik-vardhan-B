@@ -5,7 +5,8 @@ LinkedIn > long bios — check out my profile: 🔗 [LinkedIn](https://www.linke
 🛠️ Practical Skills
 Worked on: DS, ML, DL, NLP , GenAI → [Learning...] 📚
 
-Favorites: 🐼 Pandas, 🤖 Scikit-Learn, 🔗 LangChain📫 Contact
+Favorites: 🐼 Pandas, 🤖 Scikit-Learn, 🔗 LangChain
+📫 Contact .[gmail](bandikoushik781@gmail.com)
 
 🙋‍♂️ Pronouns
 He/Him
