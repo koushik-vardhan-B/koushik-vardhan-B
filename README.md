@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@koushik-vardhan-B**
-- 👀 I’m a Passionate NLP and AI enthusiast with a passion for leveraging Automation Intelegence and Agentic AI exploration
+- 👀 I’m a Passionate AI enthusiast with a passion for leveraging Automation Intelegence and Agentic AI exploration
 - 🌱 I’m currently exploring Automation Inteligence. 
 - 💞️ I’m looking to collaborate on projects that involve Aratificial Inteligence and Automation works.
 - 📫 You can reach me via direct message on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/koushik-vardhan-b/).
