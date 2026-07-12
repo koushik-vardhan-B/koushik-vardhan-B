@@ -6,7 +6,6 @@ Focused on shipping agentic, automation-driven systems that actually move the ne
 I build end-to-end AI products — from data to deployment — and I don’t shy away from complexity.  
 If it scales, automates, or accelerates intelligence, I use it.
 
-
 ---
 
 
