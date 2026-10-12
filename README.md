@@ -21,11 +21,14 @@
 
 ```python
 class AIEngineer:
-    name    = "Koushik Vardhan Bandi"
-    focus   = ["Agentic AI", "RAG", "Voice AI", "LLMOps", "Applied ML"]
-    Studies = IIIT RK Valley RGUKT CS'27
-    stack   = "Python · LangGraph · FastAPI · PyTorch"
-    learning = "AI Forward Deployed Engineering 🚀"
+    name       = "Koushik Vardhan Bandi"
+    role       = "Foundational AI Engineer @ Ben Franklin"
+    previously = ["AI/ML R&D Engineer @ Strancer AI Labs",
+                  "Machine Learning Engineer @ Freelance"]
+    education  = "B.Tech CSE · IIIT RK Valley · 2027"
+    focus      = ["Agentic AI", "RAG", "Voice AI", "LLMOps", "Applied ML"]
+    stack      = "Python · LangGraph · FastAPI · PyTorch"
+    learning   = "AI Forward Deployed Engineering 🚀"
 
     def build(self, problem):
         system = self.design(agents=True, retrieval=True, tools=True)
