@@ -4,6 +4,7 @@
 **AI/ML Engineer in progress.  
 Focused on shipping agentic, automation-driven systems that actually move the needle.**
 
+
 I build end-to-end AI products — from data to deployment — and I don’t shy away from complexity.  
 If it scales, automates, or accelerates intelligence, I use it.
 
