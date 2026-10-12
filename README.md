@@ -24,6 +24,7 @@ class AIEngineer:
     name    = "Koushik Vardhan Bandi"
     focus   = ["Agentic AI", "RAG", "Voice AI", "LLMOps", "Applied ML"]
     stack   = "Python · LangGraph · FastAPI · PyTorch"
+    learning = "AI Forward Deployed Engineering 🚀"
 
     def build(self, problem):
         system = self.design(agents=True, retrieval=True, tools=True)
@@ -105,6 +106,35 @@ flowchart LR
 
 ---
 
+## 🌱 Currently Leveling Up: AI Forward Deployed Engineering
+
+Going beyond building models to **deploying AI where the business actually runs**, working directly with real users, inside their data, tools and constraints.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 Discovery → Solution**
+Turning messy, ambiguous business problems into scoped AI workflows that deliver measurable value.
+
+**🏢 Enterprise Integration**
+Plugging LLMs into on-prem databases, CRMs, ERPs and legacy systems, securely.
+
+</td>
+<td width="50%" valign="top">
+
+**🧭 Customer-Facing Engineering**
+Running demos, gathering feedback, and iterating fast alongside the people who use the system.
+
+**📦 Deploy, Monitor, Improve**
+Taking AI from pilot to production, then tracking adoption, accuracy and cost.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Toolbox
 
 **🤖 LLM & Agents**
@@ -152,7 +182,9 @@ flowchart LR
 <img src="https://skillicons.dev/icons?i=python,java,c,fastapi,flask,react,docker,linux,git,github,githubactions&theme=dark" />
 
 ---
- about:</b> agents, RAG, voice AI, LLM evals. &nbsp;·&nbsp;
+
+<p align="center">
+  <b>Ask me about:</b> agents, RAG, voice AI, LLM evals. &nbsp;·&nbsp;
   <b>Open to:</b> AI engineering roles & ambitious builds.
 </p>
 
