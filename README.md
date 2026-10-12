@@ -13,8 +13,6 @@
   <a href="https://www.linkedin.com/in/koushik-vardhan-bandi-3343a7307"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bandikoushik781@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-302b63?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=koushik-vardhan-B&label=Profile%20Views&color=7c3aed&style=for-the-badge"/>
 </p>
 
 ---
@@ -154,34 +152,7 @@ flowchart LR
 <img src="https://skillicons.dev/icons?i=python,java,c,fastapi,flask,react,docker,linux,git,github,githubactions&theme=dark" />
 
 ---
-
-## 📈 GitHub Pulse
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=koushik-vardhan-B&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-vardhan-B&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=koushik-vardhan-B&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koushik-vardhan-B&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
-
-<!-- Snake animation: works after the GitHub Action in .github/workflows/snake.yml runs once -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koushik-vardhan-B/koushik-vardhan-B/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/koushik-vardhan-B/koushik-vardhan-B/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <b>Ask me about:</b> agents, RAG, voice AI, LLM evals. &nbsp;·&nbsp;
+ about:</b> agents, RAG, voice AI, LLM evals. &nbsp;·&nbsp;
   <b>Open to:</b> AI engineering roles & ambitious builds.
 </p>
 
