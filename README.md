@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+multi-agent+systems+with+LangGraph;Shipping+RAG+pipelines+to+production;Real-time+voice+agents+that+pick+up+the+phone;Text-to-SQL+that+can't+drop+your+tables+%F0%9F%98%85" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=I+build+AI+systems+that+reason%2C+act+and+talk;Agents+%E2%80%A2+RAG+%E2%80%A2+Voice+AI+%E2%80%A2+LLMOps;From+prototype+to+production%2C+end+to+end;Reliable+AI+%3E+impressive+demos" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,84 +22,88 @@
 ## 🧠 `whoami`
 
 ```python
-class KoushikVardhan:
-    role       = "Foundational AI Engineer @ Ben Franklin"
-    previously = "AI/ML R&D Engineer @ Strancer AI Labs"
-    education  = "B.Tech CSE · IIIT RK Valley · 2027 · CGPA 8.33"
-    based_in   = "Andhra Pradesh, India 🇮🇳"
+class AIEngineer:
+    name    = "Koushik Vardhan Bandi"
+    focus   = ["Agentic AI", "RAG", "Voice AI", "LLMOps", "Applied ML"]
+    stack   = "Python · LangGraph · FastAPI · PyTorch"
 
-    builds = [
-        "multi-agent systems (LangGraph, MCP)",
-        "RAG pipelines & vector search",
-        "real-time voice agents (Gemini Live, Plivo, Pipecat)",
-        "fine-tuned PyTorch models for NLP & vision",
-    ]
+    def build(self, problem):
+        system = self.design(agents=True, retrieval=True, tools=True)
+        system.add(evals=True, guardrails=True, observability=True)
+        return system.ship(to="production")
 
-    philosophy = "If the LLM can get it wrong, put a deterministic check in front of it."
+    motto = "If an LLM can get it wrong, put a deterministic check in front of it."
 ```
 
 ---
 
-## 🏗️ What I'm Shipping
-
-> **📊 Role-aware sales analytics** — FastAPI + React + LangGraph chat assistant serving **~1,500 branches across 26 states**. Every number is computed in Python, so charts and chat answers never disagree. Row-level security per login, backed by a 43-question eval harness.
-
-> **🗄️ Multi-agent Text-to-SQL** — LangGraph + MCP server on on-prem SQL Server, with `sqlglot` validation, read-only execution, rollback, timeouts and row caps. Safe by construction.
-
-> **📞 Real-time voice agents** — Gemini Live + Plivo + FastAPI: auto-dialer campaigns, ChromaDB knowledge base, CRM lookups, human handoff and call transcripts.
-
-> **📄 LLM document pipelines** — GST invoice validation, 21-field MOU risk analysis, and video-based product data extraction with Gemini.
-
----
-
-## 🚀 Featured Projects
+## ⚡ What I Build
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🛡️ [Rakshana AI](YOUR_REPO_LINK)
-🏆 *Prize-winning hackathon project*
-
-Two-layer fraud detector: DistilBERT filters spam, BERT classifies the scam type (UPI, lottery, phishing, job) in **English, Hindi & Telugu**. Scans screenshots with EasyOCR.
-
-`DistilBERT` `BERT` `EasyOCR` `FastAPI` `Docker`
+### 🤖 Agentic Systems
+Multi-agent workflows that plan, call tools, and recover from failure. State machines, routing, human-in-the-loop, MCP tool servers.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 👁️ [VisionChain](YOUR_REPO_LINK)
-*Diabetic retinopathy detection*
+### 📚 RAG & Knowledge AI
+Retrieval pipelines over docs, databases and graphs. Chunking, hybrid search, re-ranking, Text-to-SQL, and grounded answers.
 
-Fine-tuned ResNet50 on APTOS 2019 to grade 5 stages of DR, with GradCAM heatmaps that show *where* the model is looking.
+</td>
+<td width="33%" valign="top">
 
-`PyTorch` `ResNet50` `GradCAM` `FastAPI` `Supabase`
+### 🎙️ Real-time Voice AI
+Low-latency voice agents over telephony and WebSockets. Streaming STT/TTS, live LLM APIs, call routing and handoff.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🌐 [Autonomous Browser Agent](YOUR_REPO_LINK)
-*Natural language → browser actions*
-
-Multi-agent system that navigates sites and extracts data from plain-English instructions, using vision-based element detection.
-
-`LangGraph` `Playwright` `Multimodal LLMs` `ChromaDB`
+### 🧪 Reliable LLM Apps
+Eval harnesses, deterministic validation, guardrails, access control and cost tracking — the parts that make AI trustworthy.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### ✈️ [AI Way 2 Vacation](https://github.com/koushik-vardhan-B/AI-way-2-Vacation)
-*Agentic trip planner*
+### 🔬 Applied ML & DL
+Fine-tuning transformers and CNNs for NLP and computer vision, with explainability and experiment tracking.
 
-One prompt → full itinerary with hotels, transport and live pricing. Orchestrates multiple APIs and degrades gracefully when they fail.
+</td>
+<td width="33%" valign="top">
 
-`LangGraph` `FastAPI` `LangChain` `Groq`
+### 🚀 AI Backends
+Async APIs, document-intelligence pipelines, containerized services, and the glue that puts models in front of users.
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🧩 How I Architect AI Systems
+
+```mermaid
+flowchart LR
+    U([User / Voice / API]) --> O{{Agent Orchestrator}}
+    O --> R[(RAG · Vector DB)]
+    O --> T[Tools · MCP · APIs]
+    O --> S[(SQL · Graph DB)]
+    R --> G[Guardrails & Validation]
+    T --> G
+    S --> G
+    G --> E[Evals · Tracing · Cost]
+    E --> A([Grounded Response])
+```
+
+**Principles I build by**
+- 🎯 **Determinism where it matters** — let the LLM reason, let code do the math and the checks.
+- 📏 **Measure, don't vibe** — every system ships with an eval set.
+- 🔒 **Safe by default** — read-only access, scoped permissions, timeouts, fallbacks.
+- ⚡ **Latency is a feature** — especially when a human is waiting on the other end of a call.
 
 ---
 
@@ -177,8 +181,8 @@ One prompt → full itinerary with hotels, transport and live pricing. Orchestra
 ---
 
 <p align="center">
-  <b>Currently:</b> making agents more reliable than the demos suggest. &nbsp;·&nbsp;
-  <b>Open to:</b> AI engineering roles & interesting collabs.
+  <b>Ask me about:</b> agents, RAG, voice AI, LLM evals. &nbsp;·&nbsp;
+  <b>Open to:</b> AI engineering roles & ambitious builds.
 </p>
 
 <p align="center">
