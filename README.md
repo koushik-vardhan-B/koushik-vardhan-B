@@ -23,6 +23,7 @@
 class AIEngineer:
     name    = "Koushik Vardhan Bandi"
     focus   = ["Agentic AI", "RAG", "Voice AI", "LLMOps", "Applied ML"]
+    Studies = IIIT RK Valley RGUKT CS'27
     stack   = "Python · LangGraph · FastAPI · PyTorch"
     learning = "AI Forward Deployed Engineering 🚀"
 
